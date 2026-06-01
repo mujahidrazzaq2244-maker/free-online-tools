@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mujahidrazzaq2244-maker.github.io/free-online-tools/sitemap.xml
